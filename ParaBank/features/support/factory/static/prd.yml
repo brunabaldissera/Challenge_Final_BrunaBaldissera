@@ -1,0 +1,16 @@
+valid_user_data:
+  username: 'john'
+  password: 'demo'
+
+empty_user_data:
+  username: ''
+  password: ''
+
+message:
+  invalid_login_message: 'The username and password could not be verified.'
+  empty_login_message: 'Please enter a username and password.'
+
+  error_loan_message: 'An internal error has occurred and has been logged.'
+  invalid_loan_message: 'We cannot grant a loan in that amount with your available funds.'
+  insufficient_funds_loan_message: 'You do not have sufficient funds for the given down payment.'
+  success_loan_message: 'Congratulations, your loan has been approved.'
