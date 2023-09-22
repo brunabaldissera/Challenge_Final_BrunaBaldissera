@@ -203,9 +203,9 @@ O repositório está organizado de forma a facilitar a navegação e o acesso ao
 
 - OBS.: Devido a um problema com o servidor, o site tende a cair quando executa todos os testes simultaneamente, por isso é recomendável que sejam executados de forma individual.
 
-## 📃 Relatórios
+## 📃 Reports
 
-Após a execução de cada teste, um relatório será gerado e poderá ser encontrado na pasta 'reports'.
+Após a execução de cada teste, caso hajam erros, uma screenshot será gerada na pasta 'reports' para identificar os mesmos.
 
 ## 🔧 Ferramentas e Documentação
 
